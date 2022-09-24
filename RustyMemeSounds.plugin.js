@@ -1,6 +1,6 @@
 /**
  * @name RustyMemeSounds
- * @version 1.0
+ * @version 1.5
  * @desciption J'ai pris le plugin meme sounds et je l'ai modifie et ajoute plus de sons (bon eu je peux pas mettre d'acents)
  * @invite SsTkJAP3SE
  * @author RustyCompany1334#6087
